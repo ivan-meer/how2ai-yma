@@ -1,4 +1,5 @@
 # HOW2AI Telegram Mini App - Техническая спецификация
+![](assets/logo.png)
 
 <div style="text-align: center; margin-bottom: 30px;">
 <h3>Версия 1.0</h3>
